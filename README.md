@@ -1,4 +1,5 @@
 # PY1010
 Grunnleggende programmering med Python
 
-- [ ] Arbeidskrav 1
+- [X] Arbeidskrav 1
+- [X] Arbeidskrav 2 
